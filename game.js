@@ -16,7 +16,7 @@ loadSprite("princes", "princes.png");
 loadSprite("suprise", "surprise.png");
 loadSprite("unboxed", "unboxed.png");
 loadSprite("clouds", "clouds.png");
-loadSound("jump", "jumpsound.mp3");
+loadSound("jump", "jumpSound.mp3");
 loadSound("gamesound", "gameSound.mp3");
 loadSprite("pipe", "pipe_up.png");
 let health = 3;
